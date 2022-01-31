@@ -2,40 +2,34 @@
 
 ## Table of contents
 * [Info](#info)
-* [Technologies Utilisé](#technologies-utilisé)
+* [Technologies Utilisées](#technologies-utilisées)
 * [Installation](#installation)
 
 ## Info
-Ce répertoire est un projet étudiant nous mettant à la place d'un lead dev qui met en place une bonne gestion de projet.
+Ce repo a été réalisé à des fins éducatives ( cours sur les outils de versioning ). 
+Il sert uniquement de démonstration des possibilités des GitHub pages.
 
-## Technologies Utilisé
+## Technologies Utilisées
 Project is created with:
 * Git version 2.30.1.windows.1
 * Github version 3.1.15
 
 ## Installation
 
-Pour pouvoir run le projet, installer Git en cliquant sur le lien: 
+Pour pouvoir utiliser le projet, installer Git en cliquant sur le lien: 
 https://git-scm.com/downloads
 
 ou 
 
-En tapant cette commande sur un terminal Linux: 
+En tapant cette commande sur un terminal Linux : 
 ````
-sudo apt install git-all
-````
-ou 
-````
-sudo apt-install git-all
+sudo apt-get install git-all
 ````
 
 
-Ensuite, copier le code sur votre terminal (en fonction de la clé utilisé) :
+Ensuite, copier le code sur votre terminal :
 ````
 $ cd Votre répertoire/
-git clone https://github.com/Ilies77/ProjetGit.git (https)
+git clone git@github.com:GaelStervinou/OutilsDeVersioning.git (ssh)
 ````
-ou
-````
-git clone git@github.com:Ilies77/ProjetGit.git (ssh)
-````
+Si vous n'avez pas de clé ssh, retrouvez [ici](https://git-scm.com/book/fr/v2/Git-sur-le-serveur-G%C3%A9n%C3%A9ration-des-cl%C3%A9s-publiques-SSH) les informations nécessaires à sa mise en place. 
